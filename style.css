@@ -1,0 +1,32 @@
+.login {
+  background-color: hsl(0, 94%, 66%) !important;
+}
+
+.chromeBtn {
+  background-color: hsl(231, 69%, 60%) !important;
+}
+
+.inputContainer {
+  height: 17rem;
+  width: 100%;
+}
+
+.faqsP {
+  width: 65%;
+  margin-left: 15rem;
+}
+
+.featuresText {
+  margin-left: 17rem;
+}
+
+footer {
+  background-color: hsl(229, 31%, 21%);
+}
+
+@media (max-width: 970px) {
+  .faqsP {
+    width: 100%;
+    margin-left: 0;
+  }
+}
